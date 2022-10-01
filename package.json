@@ -1,0 +1,22 @@
+{
+  "name": "zustand-scoreboard-final",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "lodash-es": "^4.17.15",
+    "next": "9.5.3",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "styled-components": "^5.2.0",
+    "styled-icons": "^10.20.0",
+    "twin.macro": "^1.9.0",
+    "zustand": "^3.1.2"
+  },
+  "keywords": [],
+  "description": ""
+}
